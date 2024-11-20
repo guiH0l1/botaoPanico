@@ -1,1 +1,3 @@
 # botaoPanico
+
+![](img/panicoQR.png)
