@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Timmana&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #80e1de; 
+    font-family: Arial, sans-serif; 
+    flex-direction: column;
+    color: aliceblue;
+}
+
+.container {
+    text-align: center;
+    color: #f90a0a;
+}
+
+img{
+    width: 300px;
+}
